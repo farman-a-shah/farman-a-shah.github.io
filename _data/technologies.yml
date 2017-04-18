@@ -1,0 +1,93 @@
+# Technologies
+
+# Languages
+- techgroup: Languages
+  technologies:
+    - JavaScript
+    - Python
+    - C++
+    - C#
+    - VB.Net
+    - CSS
+
+# Platforms
+- techgroup: Platforms
+  technologies:
+    - Windows
+    - Linux
+    - Mac OSX
+
+# JavaScript
+- techgroup: JavaScript
+  technologies:
+    - NodeJS
+    - Electron
+    - ReactJS
+    - BackboneJS
+    - Angular 2+
+    - Webpack
+    - ExpressJS
+
+# Python
+- techgroup: Python
+  technologies:
+    - WxWidgets
+    - Cross-platform Desktop App for Windows, Linux, OSX
+
+# C#
+- techgroup: C#
+  technologies:
+    - ASP.Net Web Forms
+    - ASP.Net MVC 4
+    - DotNetNuke (CMS)
+
+# CSS
+- techgroup: CSS
+  technologies:
+    - CSS3
+    - SCSS
+    - Twitter Bootstrap
+    - Semantic UI
+    - Foundation
+
+# Databases
+- techgroup: Databases
+  technologies: 
+    - SQLite3
+    - SQLCipher
+    - MongoDB
+    - SQL Server
+    - LocalStorage
+    - TaffyDB
+
+# ORMs
+- techgroup: ORMs
+  technologies: 
+    - Sequelize
+    - Entity Framework
+
+# Integrations
+- techgroup: Integrations
+  technologies: 
+    - ArcGIS Maps SDK
+    - IPAWS
+
+# Documentation
+- techgroup: Documentation
+  technologies:
+    - Markdown
+    - Gitbook
+    - Jsdoc Standard Documentation
+
+# Tools
+- techgroup: Tools
+  technologies:
+    - TeamCity for CI
+    - Target Process for Project Mangement
+    - Bugzilla for Bug Reporting
+
+# Web Servers
+- techgroup: Web Servers
+  technologies:
+    - IIS
+    - Apache
