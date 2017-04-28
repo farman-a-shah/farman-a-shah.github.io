@@ -138,6 +138,26 @@
       </section>
       <!-- end Education -->
       {% endif %}
+	  
+	  {% if site.resume_section_independent %}
+      <!-- begin independent -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Independent Coursework</h2>
+        </header>
+
+        {% for independent in site.data.independent %}
+        <div class="resume-item">
+          <h3 class="resume-item-title">{{ independent.course }}</h3>
+          <h4 class="resume-item-details">{{ independent.uni }} &bull; {{ independent.score }}</h4>
+          <p class="resume-item-copy">{{ independent.channel }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end independent -->
+      {% endif %}
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
@@ -197,8 +217,8 @@
       </section>
       <!-- end Associations -->
       {% endif %}
-
-      {% if site.resume_section_links %}
+	  
+	  {% if site.resume_section_links %}
       <!-- begin Links -->
       <section class="content-section">
 

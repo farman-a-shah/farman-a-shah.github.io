@@ -1,12 +1,59 @@
 # Projects
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+
+#Barnes & Noble Service Emails
+- project: Barnes & Noble Service Emails
+  role: Development Lead
+  technology: Yii Framework
+  duration: August 2012 &mdash; Present
+  description: An application that sends out the service emails on a Massive Scale. SAP based system forwards the information of customers who have placed online orders. A templating engine decides the email template and content. Millions of emails are sent out on daily basis using third party tool, Adobe Campaign, formerly known as Neolane.
+  
+#Barnes & Noble Push Notifications
+- project: Barnes & Noble Push Notifications
+  role: Core Developer
+  technology: Yii Framework
+  duration: Nov 2013 &mdash; June 2015
+  description: The application lets marketing personnel to generate Push Notifications with rich content. The notifications are sent out using third party tool, Urban Airship. More than 2 Billion notifications have been sent out to the customers till date.
+
+# CP
+- project: Colgate Palmolive Field Sales App
+  role: Core Developer
+  technology: Yii 2.0 Framework
+  duration: May 2016 &mdash; Present
+  description: An application that Administers, Analyzes data and provides Reports on the departmental sales of Colgate Palmolive Oceania region.
+  
+#Folio3 Website
+- project: Folio3 Website
+  link: http://www.folio3.com
+  role: Development Supervisor
+  technology: Wordpress
+  duration: August 2016 &mdash; Present
+  description: Website of a leading US-based Software Outsourcing Firm in Pakistan.
+  
+#MADE@Colgate
+- project: Mobile Application Development Engine  
+  role: Intergration Developer
+  technology: Wordpress
+  duration: November 2016 &mdash; March 2017
+  description: A website that collects the ideas from personnel and integrates idea execution using JIRA APIs.
+  
+#HOS
+- project: Hiplink Order Entry System
+  role: Revamp Engineer
+  technology: CodeIgniter
+  duration: May 2013 &mdash; September 2013
+  description: HipLink Software provides fast and intelligent communication and incident notification. The modules are ordered using this order entry system.
+  
+#Games
+- project: Games
+  role: Learning Python
+  technology: CodeIgniter
+  duration: Sep 2013 &mdash; November 2013
+  description: Developed small games - Asteroids, Memory, Guess the Number, Rock-paper-scissors-lizard-spock
+  
+#FYP
+- project: Soft-Real-Time Web Based Object Tracking Using GPS/GPRS
+  role: University Final Year Project
+  technology: PHP/Android/Google Map APIs
+  duration: August 2010 &mdash; May 2011
+  description: Provides live tracking of an android device using a marker on customized Google maps.

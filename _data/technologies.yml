@@ -3,91 +3,68 @@
 # Languages
 - techgroup: Languages
   technologies:
+    - PHP
     - JavaScript
-    - Python
-    - C++
-    - C#
-    - VB.Net
+    - jQuery
+    - HTML
     - CSS
+    - XML
+    - XSLTs
+    - SOAP/REST APIs
+    - SAML 2.0
 
+# Advanced
+- techgroup: Advanced Level Expertise
+  technologies:
+    - Core PHP 
+    - MVC Frameworks
+    - Wordpress
+
+# Touchups
+- techgroup: Basic Level Knowledge
+  technologies:
+    - Drupal
+    - Python
+    - Dot Net Frameworks
+    - JAVA
+
+# CSS
+- techgroup: CSS
+  technologies:
+    - CSS3    
+    - Twitter Bootstrap
+
+# Databases
+- techgroup: Databases
+  technologies: 
+    - MySQL
+    - Oracle    
+    - MongoDB    
+    - SQL Server    
+    
+# Integrations
+- techgroup: Integrations
+  technologies:    
+    - Neolane/Adobe Campaign
+    - Urban Airship
+    - JIRA APIs
+    - SAML 2.0 / Active Directory Federation Services (ADFS)
+    
+# Web Servers
+- techgroup: Web Servers
+  technologies:    
+    - Apache    
+
+# Tools
+- techgroup: Project Management Tools
+  technologies:    
+    - Redmine
+    - JIRA
+    - BugZila
+    - Mantis
+    
 # Platforms
 - techgroup: Platforms
   technologies:
     - Windows
     - Linux
-    - Mac OSX
-
-# JavaScript
-- techgroup: JavaScript
-  technologies:
-    - NodeJS
-    - Electron
-    - ReactJS
-    - BackboneJS
-    - Angular 2+
-    - Webpack
-    - ExpressJS
-
-# Python
-- techgroup: Python
-  technologies:
-    - WxWidgets
-    - Cross-platform Desktop App for Windows, Linux, OSX
-
-# C#
-- techgroup: C#
-  technologies:
-    - ASP.Net Web Forms
-    - ASP.Net MVC 4
-    - DotNetNuke (CMS)
-
-# CSS
-- techgroup: CSS
-  technologies:
-    - CSS3
-    - SCSS
-    - Twitter Bootstrap
-    - Semantic UI
-    - Foundation
-
-# Databases
-- techgroup: Databases
-  technologies: 
-    - SQLite3
-    - SQLCipher
-    - MongoDB
-    - SQL Server
-    - LocalStorage
-    - TaffyDB
-
-# ORMs
-- techgroup: ORMs
-  technologies: 
-    - Sequelize
-    - Entity Framework
-
-# Integrations
-- techgroup: Integrations
-  technologies: 
-    - ArcGIS Maps SDK
-    - IPAWS
-
-# Documentation
-- techgroup: Documentation
-  technologies:
-    - Markdown
-    - Gitbook
-    - Jsdoc Standard Documentation
-
-# Tools
-- techgroup: Tools
-  technologies:
-    - TeamCity for CI
-    - Target Process for Project Mangement
-    - Bugzilla for Bug Reporting
-
-# Web Servers
-- techgroup: Web Servers
-  technologies:
-    - IIS
-    - Apache
