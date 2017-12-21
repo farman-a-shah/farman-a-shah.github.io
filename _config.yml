@@ -12,7 +12,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Farman Shah<br><small><small><small style="font-weight: lighter;">+92 333 726 6745</small></small></small>"
+resume_name:                    "Farman Shah<br><span style="font-weight: lighter;"><small><small><small>+92 333 726 6745</small></small></small></span>"
 resume_title:                   |
   <div>
     Full Stack Web Developer (PHP/JavaScript/HTML/CSS)
