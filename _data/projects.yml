@@ -1,5 +1,11 @@
 # Projects
 
+#Barnes & Noble Marketing Tools
+- project: Barnes & Noble Marketing Tool
+  role: Development Lead
+  technology: Yii Framework
+  duration: August 2017 &mdash; Present
+  description: A big tool for building, scheduling and running personalized email marketing campaigns. All of the sophisticated email marketing by Barnes & Noble is done using this tool.
 
 #Barnes & Noble Service Emails
 - project: Barnes & Noble Service Emails
@@ -13,14 +19,14 @@
   role: Core Developer
   technology: Yii Framework
   duration: Nov 2013 &mdash; June 2015
-  description: The application lets marketing personnel to generate Push Notifications with rich content. The notifications are sent out using third party tool, Urban Airship. More than 2 Billion notifications have been sent out to the customers till date.
+  description: The application lets marketing personnel to generate Push Notifications with rich content. The notifications are sent out using a third party tool, Urban Airship. More than 2 Billion notifications have been sent out to the customers as of now.
 
 # CP
 - project: Colgate Palmolive Field Sales App
-  role: Core Developer
+  role: Development Lead
   technology: Yii 2.0 Framework
-  duration: May 2016 &mdash; Present
-  description: An application that Administers, Analyzes data and provides Reports on the departmental sales of Colgate Palmolive Oceania region.
+  duration: May 2016 &mdash; August 2017
+  description: The application Administers, Analyzes data and provides Reports on the departmental sales of Colgate Palmolive Oceania region.
   
 #Folio3 Website
 - project: Folio3 Website
@@ -42,7 +48,7 @@
   role: Revamp Engineer
   technology: CodeIgniter
   duration: May 2013 &mdash; September 2013
-  description: HipLink Software provides fast and intelligent communication and incident notification. The modules are ordered using this order entry system.
+  description: HipLink Software provides fast and intelligent communication and incident notifications. The modules are ordered using this order entry system.
   
 #Games
 - project: Games

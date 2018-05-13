@@ -4,6 +4,7 @@
 - techgroup: Languages
   technologies:
     - PHP
+    - Python
     - JavaScript
     - jQuery
     - HTML
@@ -21,10 +22,9 @@
     - Wordpress
 
 # Touchups
-- techgroup: Basic Level Knowledge
+- techgroup: Basic Knowledge
   technologies:
     - Drupal
-    - Python
     - Dot Net Frameworks
     - JAVA
 
@@ -37,6 +37,7 @@
 # Databases
 - techgroup: Databases
   technologies: 
+    - Google Big Query
     - MySQL
     - Oracle    
     - MongoDB    
@@ -45,10 +46,12 @@
 # Integrations
 - techgroup: Integrations
   technologies:    
-    - Neolane/Adobe Campaign
+    - Neolane/Adobe Campaign    
     - Urban Airship
-    - JIRA APIs
+    - Epsilon Harmony
+    - JIRA Api
     - SAML 2.0 / Active Directory Federation Services (ADFS)
+    - Google Map Api
     
 # Web Servers
 - techgroup: Web Servers
@@ -65,6 +68,6 @@
     
 # Platforms
 - techgroup: Platforms
-  technologies:
-    - Windows
+  technologies:    
     - Linux
+    - Windows
