@@ -4,9 +4,11 @@
 - techgroup: Languages
   technologies:
     - PHP
-    - Python
     - JavaScript
-    - jQuery
+    - Python
+    - R
+    - Octave
+    - jQuery    
     - HTML
     - CSS
     - XML
