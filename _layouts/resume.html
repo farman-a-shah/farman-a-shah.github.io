@@ -126,16 +126,18 @@
 		    <span style="display: block; float:left;">
               {{ education.uni }}
             </span>
-			<span style="display: block; float:right;">
-              {{ education.gpa }}
-            </span>
 		  </h3>
           <h4 class="resume-item-details clearfix" itemprop="description">
             <span style="display: block; float:left;">
               {{ education.degree }}
             </span>
-            <span style="display: block; float:right;">
+			<br />
+            <span style="display: block; float:left;">
               {{ education.year }}
+            </span>
+			<br />
+			<span style="display: block; float:left;">
+              {{ education.gpa }}
             </span>
           </h4>
           {% if education.awards %}
