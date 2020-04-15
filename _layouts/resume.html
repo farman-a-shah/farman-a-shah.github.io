@@ -122,7 +122,14 @@
 
         {% for education in site.data.education %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
+          <h3 class="resume-item-title" itemprop="name">
+		    <span style="display: block; float:left;">
+              {{ education.uni }}
+            </span>
+			<span style="display: block; float:right;">
+              {{ education.gpa }}
+            </span>
+		  </h3>
           <h4 class="resume-item-details clearfix" itemprop="description">
             <span style="display: block; float:left;">
               {{ education.degree }}

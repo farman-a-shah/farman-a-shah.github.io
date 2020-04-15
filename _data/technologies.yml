@@ -4,14 +4,13 @@
 - techgroup: Languages
   technologies:
     - PHP
-    - JavaScript
     - Python
-    - R
-    - Octave
-    - jQuery    
+    - JAVA
+    - Javascript    
     - HTML
     - CSS
     - XML
+    - Octave
     - XSLTs
     - SOAP/REST APIs
     - SAML 2.0
@@ -19,31 +18,35 @@
 # Advanced
 - techgroup: Advanced Level Expertise
   technologies:
+    - ReactJS
+    - Java Spring Boot
     - Core PHP 
-    - MVC Frameworks
+    - PHP MVC Frameworks (Yii2, Laravel)
     - Wordpress
 
 # Touchups
 - techgroup: Basic Knowledge
   technologies:
     - Drupal
-    - Dot Net Frameworks
-    - JAVA
+    - Dot Net Framework
+    - R
 
 # CSS
 - techgroup: CSS
   technologies:
     - CSS3    
     - Twitter Bootstrap
+    - Semantic UI
 
 # Databases
 - techgroup: Databases
   technologies: 
     - Google Big Query
+    - Elastic Search
     - MySQL
     - Oracle    
     - MongoDB    
-    - SQL Server    
+    - SQL Server
     
 # Integrations
 - techgroup: Integrations
@@ -58,7 +61,8 @@
 # Web Servers
 - techgroup: Web Servers
   technologies:    
-    - Apache    
+    - Apache
+    - Nginx
 
 # Tools
 - techgroup: Project Management Tools
