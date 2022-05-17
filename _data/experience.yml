@@ -1,11 +1,25 @@
 # Jobs
 
+# Engineering Team Lead
+- company: Contour Software
+  position: Engineering Team Lead
+  duration: January, 2022 &mdash; Present
+  summary: |
+    Working on end to end automated payment system for a Partner Marketing Platform.
+
+# Senior Software Engineer
+- company: Contour Software
+  position: Senior Software Engineer
+  duration: January, 2021 &mdash; December 2021
+  summary: |
+    Worked for a Partner Marketing Platform. Upgraded UI/UX. Set up CI/CD Pipelines. Ported workflows and ETL jobs from cron to Apache Airflow.
+
 # Senior Software Engineer
 - company: Folio3 Software
   position: Senior Software Engineer
-  duration: January, 2018 &mdash; Present
+  duration: January, 2018 &mdash; December 2020
   summary: |
-    Working on Machine Learning problems. With specific focus in the areas of Predictive Analysis and Image Processing.
+    Worked on Machine Learning problems. With specific focus in the areas of Predictive Analysis and Image Processing.
 
 # Senior Software Engineer
 - company: Folio3 Software
