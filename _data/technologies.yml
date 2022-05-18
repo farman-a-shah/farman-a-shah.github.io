@@ -50,7 +50,10 @@
     
 # Integrations
 - techgroup: Integrations
-  technologies:    
+  technologies:
+    - Salesforce
+    - Zuora
+    - Stripe
     - Neolane/Adobe Campaign    
     - Urban Airship
     - Epsilon Harmony
@@ -64,6 +67,12 @@
     - Apache
     - Nginx
 
+# Workflow Management
+- techgroup: Workflow Management
+  technologies:
+    - Apache Airflow
+    - Cron
+
 # Tools
 - techgroup: Project Management Tools
   technologies:    
@@ -76,4 +85,5 @@
 - techgroup: Platforms
   technologies:    
     - Linux
+    - MacOS
     - Windows
