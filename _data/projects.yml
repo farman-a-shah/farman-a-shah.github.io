@@ -1,10 +1,17 @@
 # Projects
 
+#TUNE Partner Marketing Platform
+- project: TUNE Partner Marketing Platform
+  role: Senior Developer - Team Lead
+  technology: AWS Cloud Services, Apache Airflow, Gitlab CI, PHP, ReactJs, MySQL
+  duration: January 2021 &mdash; Present
+  description: Account management and integrations with Salesforce, Zuora and Marketo platforms.
+
 #Barnes & Noble Marketing Tools
 - project: Barnes & Noble Marketing Tool
   role: Development Lead
   technology: Yii Framework
-  duration: August 2017 &mdash; Present
+  duration: August 2017 &mdash; December 2020
   description: A big tool for building, scheduling and running personalized email marketing campaigns. All of the sophisticated email marketing by Barnes & Noble is done using this tool.
 
 #Barnes & Noble Service Emails
