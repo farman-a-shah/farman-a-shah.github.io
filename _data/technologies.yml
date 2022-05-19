@@ -38,7 +38,7 @@
     - Oracle
     - Google Big Query
     - Snowflake
-    - Elastic Search
+    - ElasticSearch
     - MongoDB    
     - SQL Server
     
@@ -84,6 +84,17 @@
   technologies:
     - Apache Airflow
     - Cron
+
+# Monitoring
+- techgroup: Monitoring
+  technologies:
+    - DataDog
+    - OpsGenie
+
+# Logging/Reporting
+- techgroup: Logging/Reporting
+  technologies:
+    - ELK Stack
 
 # Tools
 - techgroup: Project Management Tools
