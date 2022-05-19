@@ -98,9 +98,9 @@
 
 # Tools
 - techgroup: Project Management Tools
-  technologies:    
-    - Redmine
+  technologies:
     - JIRA
+    - Redmine
     - BugZila
     - Mantis
     
