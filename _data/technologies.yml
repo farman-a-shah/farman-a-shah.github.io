@@ -1,7 +1,7 @@
 # Technologies
 
 # Languages
-- techgroup: Languages
+- techgroup: Programming
   technologies:
     - PHP
     - Python
@@ -18,33 +18,27 @@
 # Advanced
 - techgroup: Advanced Level Expertise
   technologies:
+    - Core PHP
+    - PHP MVC Frameworks (Yii2, Laravel)
     - ReactJS
     - Java Spring Boot
-    - Core PHP 
-    - PHP MVC Frameworks (Yii2, Laravel)
     - Wordpress
-
-# Touchups
-- techgroup: Basic Knowledge
-  technologies:
-    - Drupal
-    - Dot Net Framework
-    - R
 
 # CSS
 - techgroup: CSS
   technologies:
     - CSS3    
-    - Twitter Bootstrap
+    - Bootstrap
     - Semantic UI
 
 # Databases
 - techgroup: Databases
-  technologies: 
-    - Google Big Query
-    - Elastic Search
+  technologies:
     - MySQL
-    - Oracle    
+    - Oracle
+    - Google Big Query
+    - Snowflake
+    - Elastic Search
     - MongoDB    
     - SQL Server
     
@@ -66,6 +60,24 @@
   technologies:    
     - Apache
     - Nginx
+
+# Virtualization
+- techgroup: Virtualization Technologies
+  technologies:
+    - Docker
+    - Kubernetes
+    - VMWare
+
+# Cloud
+- techgroup: AWS Cloud Services
+  technologies:
+    - EC2
+    - S3
+    - ELBs
+    - Route53
+    - CloudFront
+    - EKS
+    - SES
 
 # Workflow Management
 - techgroup: Workflow Management
