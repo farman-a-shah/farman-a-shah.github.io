@@ -81,6 +81,7 @@
 
 # Data Science
 - techgroup: Data Science
+  technologies:
   - Regression (Random Forest, XGBoost, Lasso, Ridge)
   - Classification (Logistic Regression, SVMs, KNN)
   - Computer Vision (Object Recognition, Face Recognition)
