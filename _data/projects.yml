@@ -39,7 +39,7 @@
 - project: Barnes & Noble Service Emails
   role: Development Lead
   technology: Yii Framework
-  duration: August 2012 &mdash; Present
+  duration: August 2012 &mdash; December 2018
   description: An application that sends out the service emails on a Massive Scale. SAP based system forwards the information of customers who have placed online orders. A templating engine decides the email template and content. Millions of emails are sent out on daily basis using third party tool, Adobe Campaign, formerly known as Neolane.
   
 #Barnes & Noble Push Notifications
