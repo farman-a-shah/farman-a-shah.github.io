@@ -79,6 +79,14 @@
     - EKS
     - SES
 
+# Data Science
+- techgroup: Data Science
+  - Regression (Random Forest, XGBoost, Lasso, Ridge)
+  - Classification (Logistic Regression, SVMs, KNN)
+  - Computer Vision (Object Recognition, Face Recognition)
+  - NLP (Speech Recognition, Creative Writing)
+  - Time Series Forecasting
+
 # Workflow Management
 - techgroup: Workflow Management
   technologies:

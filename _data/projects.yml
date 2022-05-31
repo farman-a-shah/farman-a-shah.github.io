@@ -7,6 +7,12 @@
   duration: January 2021 &mdash; Present
   description: User signups, account management, billing and integrations with Salesforce, Zuora and Marketo platforms.
 
+# Attendance System
+- project: Attendance System
+  role: ML Engineer
+  technology: CNN, HOG, DLIB, OpenCV
+  description: Face Recognition system to mark automated employee attendance upon entrance/exit.
+
 #Barnes & Noble Marketing Tools
 - project: Barnes & Noble Marketing Tool
   role: Development Lead
