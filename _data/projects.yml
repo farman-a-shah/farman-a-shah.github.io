@@ -11,7 +11,22 @@
 - project: Attendance System
   role: ML Engineer
   technology: CNN, HOG, DLIB, OpenCV
+  duration: February 2018 &mdash; December 2020
   description: Face Recognition system to mark automated employee attendance upon entrance/exit.
+
+# Speech to Text
+- project: Speech to Text Software
+  role: ML Engineer
+  technology: IBM Watson, Google Speech, Amazon Transcribe
+  duration: February 2018 &mdash; December 2020
+  description: Integration with speech to text services
+
+# Time Estimation
+- project: Completion Time Estimation
+  role: ML Engineer
+  technology: Scikit Learn, NumPy, Pandas
+  duration: February 2018 &mdash; December 2020
+  description: Regression algorithms to estimate the completion time of multiple inter-dependent long running processes with high accuracy.
 
 #Barnes & Noble Marketing Tools
 - project: Barnes & Noble Marketing Tool
