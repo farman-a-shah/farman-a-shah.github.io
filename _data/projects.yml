@@ -7,8 +7,8 @@
   duration: January 2021 &mdash; Present
   description: User signups, account management, billing and integrations with Salesforce, Zuora and Marketo platforms.
 
-# Attendance System
-- project: Attendance System
+# Facial Recognition System
+- project: Facial Recognition System
   role: ML Engineer
   technology: CNN, HOG, DLIB, OpenCV
   duration: February 2018 &mdash; December 2020

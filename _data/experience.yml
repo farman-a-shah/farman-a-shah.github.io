@@ -1,11 +1,26 @@
 # Jobs
 
+# R & D Manager
+- company: Contour Software
+  position: Research & Development Manager
+  duration: September, 2024 &mdash; Present
+  summary: |
+    Leading a highly skilled and experienced team of senior engineers in developing high quality software for a
+    globally recognized Partner Marketing platform.
+
 # Engineering Team Lead
 - company: Contour Software
-  position: Engineering Team Lead
-  duration: January, 2022 &mdash; Present
+  position: Principal Software Engineer - Team Lead
+  duration: January, 2024 &mdash; September, 2024
   summary: |
     Leading, motivating and mentoring the team of engineers to deliver finest quality software.
+
+# Senior Software Engineer
+- company: Contour Software
+  position: Senior Software Engineer - Team Lead
+  duration: January, 2022 &mdash; December 2023
+  summary: |
+    Worked for a Partner Marketing Platform. Upgraded UI/UX. Set up CI/CD Pipelines. Ported workflows and ETL jobs from cron to Apache Airflow.
 
 # Senior Software Engineer
 - company: Contour Software

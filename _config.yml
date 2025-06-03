@@ -15,17 +15,14 @@ resume_avatar:                  "true"
 resume_name:                    "Farman Shah"
 resume_title:                   |
   <div>
-    Software Engineering Team Lead
+    Research & Development Manager
   </div>
 resume_contact_email:           "farman.a.shah@gmail.com"
 resume_header_contact_info:     "farman.a.shah@gmail.com"
 resume_header_contact_phone:     "+92 333 726 6745"
 resume_header_intro:            |
   <p>
-    Having more than a decade of software development experience, I am interested in making cool products. Products that make lives easier, beautiful and worth living.
-  </p>
-  <p>
-    Machine Learning is my area of interest these days. It would be my pleasure to join a team working in these areas.
+    Helping large-scale enterprises with high-quality software solutions since 2012, I specialize in leading agile development teams to build scalable, reliable, and innovative software. With a strong background in Scrum methodologies, software architecture, and AI-driven technologies, I focus on optimizing development workflows, enhancing product stability, and aligning engineering efforts with business goals. Passionate about mentoring teams, driving innovation, and delivering impactful solutions, I thrive in dynamic environments where technology meets business excellence.
   </p>
 
 # use "yes" to display the email contact button,
